@@ -1,9 +1,9 @@
     .container_huge {
-		display: grid;
-		border: 0.02rem solid transparent;
-		place-items: center;
-		background:  #FAF7D8; 
-	}
+	display: grid;
+	border: 0.02rem solid transparent;
+	place-items: center;
+	background:  #FAF7D8; 
+    }
     .pie {
         display: grid;
         border: 0.05rem solid transparent;
